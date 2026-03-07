@@ -88,12 +88,6 @@ niraj = {
 
 ---
 
-## 📚 Core CS Knowledge
-
-`Data Structures & Algorithms` &nbsp; `DBMS` &nbsp; `Computer Networks` &nbsp; `OOP`
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:63b3ed,50:1a3a5c,100:0d1117&height=120&section=footer" width="100%"/>
