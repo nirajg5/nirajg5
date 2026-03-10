@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:63b3ed&height=200&section=header&text=Niraj%20Gahukar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20GenAI%20Builder%20%7C%20Full-Stack%20Dev&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:63b3ed&height=200&section=header&text=Niraj%20Gahukar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20GenAI%20%20%7C%20Full-Stack%20Dev&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=63B3ED&center=true&vCenter=true&width=600&lines=Building+AI+Systems+with+LangChain+%26+MCP;GenAI+%7C+ML+%7C+Full-Stack+Developer;B.Tech+ECE+%40+VIIT+Pune+%7C+CGPA+8.7;Turning+Ideas+into+Intelligent+Products+%F0%9F%9A%80)](https://git.io/typing-svg)
 
