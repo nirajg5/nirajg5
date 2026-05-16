@@ -22,7 +22,7 @@ niraj = {
     "name"      : "Niraj Gahukar",
     "location"  : "Pune, India 🇮🇳",
     "education" : "B.Tech ECE @ VIIT Pune (2023–2027)",
-    "cgpa"      : 8.7,
+    "cgpa"      : 8.8,
     "interests" : ["Agentic AI", "LLMs", "Full-Stack", "MLOps"],
     "currently" : "Building MCP-driven Financial AI (NeuroBudget)",
     "goal"      : "Ship AI products that actually matter 🚀"
