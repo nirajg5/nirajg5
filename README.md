@@ -84,7 +84,6 @@ niraj = {
 |---|---|---|
 | 🥈 | **First Runner-Up** | AgriAI Hackathon 2025 *(National Level)* |
 | 💡 | **Best Idea Award** | SciTech Innovation Hackathon 2025 |
-| 🏆 | **Penultimate Round Finalist** | Techathon 2.0 @ AISSMS *(325+ teams)* |
 
 ---
 
